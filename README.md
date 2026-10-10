@@ -1,16 +1,13 @@
-## Hi there 👋
+# Felix
 
-<!--
-**774378812/774378812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in hyperspectral image processing, hyperspectral–multispectral (HSI–MSI) image fusion, and image restoration.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hyperspectral image processing
+- HSI–MSI image fusion
+- Image restoration and super-resolution
+
+## Contact
+
+Email: [20261085411006@stu.tzc.edu.cn](mailto:20261085411006@stu.tzc.edu.cn)
